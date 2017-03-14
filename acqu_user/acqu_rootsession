@@ -1,0 +1,3 @@
+{
+gSystem->Load("~/work/Git/acqu/build/lib/liba2display.so");
+}
